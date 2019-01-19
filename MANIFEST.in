@@ -1,0 +1,2 @@
+recursive-include redirect_to_non_www/templates *
+recursive-include redirect_to_non_www/static *
