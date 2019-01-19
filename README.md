@@ -5,11 +5,11 @@ Redirects ww<span></span>w. URL address to non-ww<span></span>w.
 ## Installation
 
 ```bash
-pip install git+https://git@github.com/lukasvinclav/django-redirect-to-non-www.git
+pip install django-redirect-to-non-www
 ```
 
 ```bash
-pip install django-redirect-to-non-www
+pip install git+https://git@github.com/lukasvinclav/django-redirect-to-non-www.git
 ```
 
 ## Configuration
