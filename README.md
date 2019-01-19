@@ -1,6 +1,6 @@
 # django-redirect-to-non-www
 
-Redirects www. URL address to non-www.
+Redirects www. URL address to non-ww<span></span>w.
 
 ## Installation
 
