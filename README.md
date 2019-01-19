@@ -8,6 +8,10 @@ Redirects ww<span></span>w. URL address to non-ww<span></span>w.
 pip install git+https://git@github.com/lukasvinclav/django-redirect-to-non-www.git
 ```
 
+```bash
+pip install django-redirect-to-non-www
+```
+
 ## Configuration
 
 Open your settings file and append middleware **redirect_to_non_ww<span></span>w.middleware.RedirectToNonWw<span></span>w** at the end of **MIDDLEWARE** list.
