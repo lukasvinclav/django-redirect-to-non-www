@@ -7,10 +7,12 @@ with open('README.md') as f:
 
 setup(
     name='django-redirect-to-non-www',
+    description='Redirect www URL addresses to non-www',
     short_description='Redirect www URL addresses to non-www',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    version='0.1.0',
+    version='0.1.1',
+    url='http://github.com/lukasvinclav/django-redirect-to-non-www',
     packages=[
         'redirect_to_non_www',
     ],
